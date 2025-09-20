@@ -2,9 +2,11 @@
 
 A hands-on tutorial for learning Git version control basics.
 
-## Tutorial Video
+## Tutorial Videos
 
-📹 [Watch the Git Tutorial Video](https://www.youtube.com/watch?v=85Hhpn1-i0E)
+📹 [Git Tutorial Video](https://www.youtube.com/watch?v=85Hhpn1-i0E) - Quick introduction to Git basics
+
+📺 [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=S7XpTAnSDL4) - Comprehensive guide covering Git and GitHub
 
 ## Git Commands Used in This Session
 
@@ -65,5 +67,6 @@ Now that you have the basics down, you can explore:
 ## Resources
 
 - [Git Official Documentation](https://git-scm.com/doc)
-- [Tutorial Video](https://www.youtube.com/watch?v=85Hhpn1-i0E)
+- [Git Tutorial Video](https://www.youtube.com/watch?v=85Hhpn1-i0E) - Quick introduction
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=S7XpTAnSDL4) - Comprehensive guide
 - [GitHub Git Handbook](https://guides.github.com/introduction/git-handbook/)
